@@ -1,0 +1,3 @@
+Environment used --> study_env1_311
+https://python.langchain.com/docs/integrations/llms/
+https://console.groq.com/playground
